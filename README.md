@@ -30,7 +30,8 @@ When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you w
 
 - I created a legend that will provide context for my map data.
 
-See image of the map below (zoomed out). 
+See image of the map below. 
 
-![Screen Shot 2023-02-17 at 00 02 59](https://user-images.githubusercontent.com/116304118/219515419-bb579ba2-643d-45c6-a412-1f7481b66611.png)
+![Screen Shot 2023-02-20 at 17 21 35](https://user-images.githubusercontent.com/116304118/220170123-47dc08c2-3d65-4455-a8ec-e83dbdf16410.png)
+
 

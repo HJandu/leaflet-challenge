@@ -29,7 +29,7 @@ d3.json(queryUrl).then(function(data) {
    return magnitude * 2000;
  };
 
-    // When data is returned, the marker will be styled in relation to the magnitude of the earthquake. 
+    
   function style (feature) {
     return {
       "color": colourSelector(feature.geometry.coordinates[2]),
